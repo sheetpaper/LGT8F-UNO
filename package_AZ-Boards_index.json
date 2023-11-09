@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "AZ-Delivery LGT8F328P",
+      "maintainer": "AZ-Delivery",
+      "websiteURL": "https://www.az-delivery.de/",
+      "email": "info@az-delivery.com",
+      "help": {
+        "online": "www.az-delivery.de"
+      },
+      "platforms": [
+        {
+          "name": "AZ-Boards",
+          "architecture": "RISC",
+          "version": "0.3.0",
+          "category": "lgt8fx",
+          "url": "http://az-arduino.de/AZ-Delivery-LGT8F.zip",
+          "archiveFileName": "AZ-Delivery-LGT8F.zip",
+          "help": {
+          },
+          "boards": [
+            {"name": "LGT8F Uno"}
+          ]
+        }
+        
+      ],
+      "tools": []
+    }
+  ]
+}
