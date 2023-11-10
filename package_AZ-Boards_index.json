@@ -19,6 +19,7 @@
 		      "checksum": "",
 		      "size": "",
           "help": {
+            "online": "www.az-delivery.de"
           },
           "boards": [
             {"name": "LGT8F Uno"}
