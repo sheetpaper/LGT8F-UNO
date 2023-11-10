@@ -16,7 +16,10 @@
           "category": "lgt8fx",
           "url": "https://github.com/AZchrisp/LGT8F-UNO/raw/main/AZ-Delivery-LGT8F.zip",
           "archiveFileName": "AZ-Delivery-LGT8F.zip",
+	  "checksum": "",
+	  "size": "",
           "help": {
+            "online": "www.az-delivery.de"
           },
           "boards": [
             {"name": "LGT8F Uno"}
